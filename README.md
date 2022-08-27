@@ -422,7 +422,6 @@ index.html
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="XXX，一名前端工程师，这是我的个人博客，网站文章随便写，想写啥写啥">
     <meta name="keywords" content="个人博客,XXX,前端,技术,WEB,blog,BLOG,搭建博客,前端技术,VUE博客,XXX的博客">
-    <meta name="anthor" content="XXX，123456789@qq.com">
     <meta name="robots" content="博客, 前端, blog, 个人博客, XXX, Yong,XXX的博客,web,VUE,React">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <link rel="icon" href="https://efiles.oss-cn-shenzhen.aliyuncs.com/file/favicon.ico">
